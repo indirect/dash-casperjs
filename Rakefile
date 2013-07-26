@@ -9,6 +9,9 @@ namespace :docs do
 
     # Copy the Info.plist into the right place
     cp "Info.plist", "CasperJS.docset/Contents"
+
+    # Install the favicon
+    cp "icon.png", "CasperJS.docset"
   end
 
   task :index do
