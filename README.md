@@ -1,4 +1,4 @@
-# Dash docset for [CasperJS](http://casperjs.org)
+# [Dash](http://kapeli.com/dash) docset for [CasperJS](http://casperjs.org)
 
 ## Usage
 
